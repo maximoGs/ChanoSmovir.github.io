@@ -1,4 +1,4 @@
-# Análisis del Proyecto MysterikProds.github.io
+# Análisis del Proyecto ChanoSmovir.github.io
 
 ## Descripción General
 Este es un sitio web moderno para "Mysterik Producciones" desarrollado como una Single Page Application (SPA) utilizando React y TypeScript.
